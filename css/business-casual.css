@@ -191,14 +191,15 @@ hr.divider {
 }
 
 
-figure img {
-   
-    width: 100%;
-}
+figure {
+   background-color: #fff;
+   padding: 5px;
+   font-size: .875em;
+   display: table;
 }
 
 figure img {
-    display: block;
+
     width: 100%;
 }
 
