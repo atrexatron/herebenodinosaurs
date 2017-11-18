@@ -190,12 +190,6 @@ hr.divider {
   color: white;
 }
 
-figure {
-   background-color: #fff;
-   padding: 5px;
-   font-size: .875em;
-   display: table;
-}
 
 figure img {
     display: block;
