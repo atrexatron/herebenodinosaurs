@@ -72,19 +72,7 @@ hr.divider {
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 
-figure {
-   background-color: #fff;
-   padding: 5px;
-   font-size: .875em;
-   display: table;
 
-}
-
-figcaption {
-    display: table-caption;
-    caption-side: bottom;
-    background: #fff;
-    padding: 0 5px 5px;
 }​
 .fa {
   padding: 20px;
