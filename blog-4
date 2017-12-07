@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Why No Dinosaurs?</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/business-casual.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="tagline-upper text-center text-heading text-shadow text-white mt-5 d-none d-lg-block">Here Be No Dinosaurs</div>
+    <div class="tagline-lower text-center text-expanded text-shadow text-uppercase text-white mb-5 d-none d-lg-block">Witty Tagline</div>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-faded py-lg-4">
+      <div class="container">
+        <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="#">Menu</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav mx-auto">
+            <li class="nav-item active px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="index.html">No Dinosaurs
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="about.html">Who am I?</a>
+            </li>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="blog.html">Dig Deeper</a>
+            </li>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="contact.html">Social Media</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <div class="bg-faded p-4 my-4">
+        <!-- Image Carousel -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+              <img class="d-block img-fluid w-100" src="img/dino.jpg" alt="">
+
+            </div>
+
+
+        </div>
+
+      </div>
+
+      <div class="bg-faded p-4 my-4">
+        <hr class="divider">
+        <h2 class="text-center text-lg text-uppercase my-0">Final Portfolio Project
+        </h2>
+        <hr class="divider">
+
+<p>December 6, 2017</p>
+
+<p>So, for my final portfolio project in our Digital Archaeology class I have chosen to do an augmented reality project.  I chose to use the <a href=“https://www.aurasma.com/“ target=“_blank”>Aurasma</a> app to do this.  Aurasma is an awesome program - you upload a “trigger image” and use that to trigger the app on your phone or smart device to show further information.  This information shows up as an overlay on your device screen, “overlaying” the image below.  So, for my project, when you walk along the Gorge waterway you can use the Aurasma app on your phone to view the signs put there by the city and access further information about the history and heritage of that area. </p>
+
+<p>Of course I chose to focus on the Gorge waterway, <a href=“blog-2.html” target=“_blank”>again</a> - I currently live along the Gorge, but even before I moved into the neighbourhood I would frequently travel down to enjoy the water and the walking paths in this area.  As I’ve been a student I have had the opportunity to learn more about the history of this special area than is offered up by the signs that explain early settler life along the Gorge. As I have learned these things I have become more and more uncomfortable with the narrow narrative that is present in these signs and my current project works to give access to a deeper story.</p>
+
+<p>The <a href=“https://drive.google.com/open?id=1HvxVxzr5Xvp8FFY24Lh-GxC5f3ulv-iY&usp=sharing” target=“_blank”>Google Map</a> that I created for my previous portfolio project focused on both colonial and pre-contact histories.  For this project I wanted to focus the histories on Indigenous and non-European people who have inhabited this area.</p>
+
+<p>There is an archaeologist from Kamloops, Joanne Hammond (<a href=“https://twitter.com/KamloopsArchaeo” target=“_blank”>@KamloopsArchaeo</a>) has been working on a project where she is recreating the BC Heritage signs that exist across the province - updating them with real, deeper Canadian history than the glossed over, colonial history that they currently portray.  Her project definitely inspired mine - I love the idea of challenging the commonly held narratives, adding in deeper histories and layers of stories… or in the case of Hammond, straight up calling out the <a href=“http://www.metronews.ca/news/vancouver/2017/02/09/bcs-racist-historical-signs-have-got-to-go-.html” target=“_blank”>racism inherent in these signs</a> and the one sided history they tell. My project is nowhere near as in-depth as hers, I am in awe of the way that she uses words - so succinct and right to the point.</p>
+
+<p>I created four “Auras” for my project.  (Auras are the trigger images + their overlays + any actions you want to happen when someone taps the overlay image on their device.) The first one I did was to draw attention to the midden site under the Tillicum Bridge.  The first time I did it the overlay was not large enough to be read when I tested it out at the sign. The image I had attempted to overlay was a screenshot that was too small and not focused enough to be useable.  So I went back to the drawing board - how to make overlays that were large enough and clear enough to be useful.</p>
+
+<p><a href="https://piktochart.com/" target="_blank">Piktochart</a> is a fantastic program! I used Piktochart to create this <a href="https://create.piktochart.com/output/26619340-law-of-stratigraphy" target="_blank">infographic</a> and knew how quick and easy it was to create image based files - so I decided to create my overlays using this platform. The overlays are all text based for two reasons.  The first being that the archival images on the signs placed by the city already include the images that I have gathered for that area, no use doubling up! The other reason is that I wanted the overlays to be succinct, simple in their design, and easy to read - I didn't want them to be busy or overwhelming.</p>
+
+<p>The first overlay that I created was to draw attention to the story of Camossung and her grandfather (See <a href="http://staff.royalbcmuseum.bc.ca/wp-content/uploads/2013/10/Spirited-Divers-and-Spirited-Diggers-Keddie.pdf" target="_blank">Keddie article</a>).  This is a beautiful story and one that many people are not familiar with - or if they are, they don't know that this is the place where Camossung was gifted with the food needed to save her and her grandfather from starvation. The image that I used as it's trigger is an image of the first bridge across the narrows, placed in 1850. I chose this image because it is the "start" of history on this sign - I want to remind folks that the Tillicum Narrows have been important for a lot longer than colonial history can account for.</p>
+
+ <div style="text-align: center;">
+<figure>
+<a><img src="img/cammosung.jpg" alt="Relating to the story of Camossong and her grandfather" style="width:683px;height:693px;"></a>
+<figcaption><small>When looking at the sign by the Tillicum Bridge, this is the overlay that appears.  Clicking this overlay takes you to the PDF of an <a href="http://www.saanich.ca/assets/Parks~Recreation~and~Culture/Documents/Camossung-Keddie.pdf" target="_blank">article about Cammosung</a> written by Grant Keddie, an archaeologist who works with the Royal British Columbia Museum.</small></figcaption>
+          </figure>
+</div>
+
+<p>The second overlay is on the same sign as the first, but on a different side. Though a couple different signs along the Gorge reference that the rapids at the Tillicum Narrows that produce the reverse waterfall was widened through blasting in 1960, none let you know that the blasting was unauthorized.  I wanted to draw attention to this as well as remind people that the rocks that were blasted away were Camossung and her grandfather, not mere boulders in the way.</p>
+
+<div style="text-align: center;">
+<figure>
+<a><img src="img/blasting.jpg" alt="Relating to the unauthorized blasting that happened here in 1960" style="width:596px;height:1006px;"></a>
+<figcaption><small>This overlay also shows up on the sign directly beside the Tillicum Bridge.  Clicking the overlay brings you to a website that details some of the history of this area, including the story of the <a href="https://victoriakayak.com/canal-of-camosack/https://victoriakayak.com/canal-of-camosack/" target="_blank">unauthorized removal</a> of the stone Camossung and her grandfather.</small></figcaption>
+         </figure>
+</div>
+      </div>
+
+      <p>The midden overlay is my favorite - it turned out the best! I used a different colour for the background of each overlay and when I tested them out I found that this was my favorite.  The purple shows up with the best contrast when viewed on a phone screen. I wanted to highlight the midden site that is located under the bridge as it is not set up in a manner that encourages people to stop and take note.  The site is surrounded by an old, rusty, chain-link fence running the ground up to the underside of the bridge.  There are padlocks locking the site shut, unfriendly and industrial looking - nothing about the fence or the locks says to passers-by that they should be paying attention to this space.  There are old signs talking about the midden, but the information is brief and the signs look like they've been there since the early 1990s when the site was excavated - they are hand-typed and falling out from behind the cracked plexi-glass meant to preserve them.  There are old black and white photos on the sigs as well, however they are so badly damaged that it's impossible to see the images.  The sign that I created this overlay on is a newer sign - with colour photos and a beautiful design - people are far more likely to stop and pay attention to this sign that the old, illegible ones behind the fence.</p>
+
+      <div style="text-align: center;">
+     <figure>
+     <a><img src="img/midden.jpg" alt="A sign directing readers to the midden site, located on their left-hand side" style="width:544px;height:1010px;"></a>
+     <figcaption><small>This overlay directs the reader to look to their right where an old midden site is preserved behind chainlink fence.  When tapping on this overlay the reader is taken to <a href="http://staff.royalbcmuseum.bc.ca/wp-content/uploads/2013/10/Spirited-Divers-and-Spirited-Diggers-Keddie.pdf" target="_blank">another article</a> written by Grant Keddie with the Royal BC Museum - Keddie was part of the team that excavated this midden in the early 1990s.</small></figcaption>
+               </figure>
+     </div>
+
+<p>The final overlay that I did was not related to Indigenous culture or history in this area. Instead I chose to focus on the Japanese Tea Gardens and the fate of the family that owned and operated these gardens for the better part of three decades.  A history that many Canadian's are ignorant of is that of the mistreatment and forced relocation of Japanese-Canadian families during World War II. The Japanese Tea Gardens were shut down because the owners were forced to leave Victoria during this time.  I was unable to find any information other than that.  The overlay on this image leads to a webpage that gives more information about this side of Canada's history.</p>
+
+     <div style="text-align: center;">
+    <figure>
+    <a><img src="img/tea.jpg" alt="A sign talking about the family that owned and operated the Japanese Tea Gardens prior to World War II." style="width:501px;height:753px;"></a>
+    <figcaption><small>I didn't get the chance to test thisone out in the park - so this image is a screenshot of me testing it off of my computer screen.</small></figcaption>
+              </figure>
+    </div>
+
+<h3>
+  What did I learn?
+</h3>
+
+<p>Augmented reality is awesome! I was well aware that this technology existed, but I had no idea how easy it can be to create simple augmented reality overlays! There are so many potential uses for this and I'm really excited to see if I can figure out interesting ways to use this (future poster projects?...). I can see some issues with some of this - if you aren't careful you can create overlays that are too small to be seen on phone or small device screens.  The software also has a tendency to skew images as you add them into your auras, it loses the size formatting! You have to play around with it until it looks right, but you can't get it to be exact.  I'm sure that there are probaly programs out there that would eliminate that issue, but I doubt they are free to use.</p>
+
+<p>The projects that I have created for this course, some of which I've highlighted here and on my <a href="aboutme.html" target="_blank">Who Am I</a> page,have been both challenging and rewarding! I have now gotten the hang of html to the degree that I don't have to even think about it when I add links into a blog - though I'm still trying to figure out how to wrap text around photos... I have learned how to create basic infographics, I have had the opertunity to tell stories through sound, and a chance to try to find ways to share the local history that I am so passionate about.</p>
+
+<h3>So thankful for being able to participate in this class - Thanks for the fun!</h3>
+
+    </div>
+
+    <!-- Pagination -->
+    <div class="bg-faded p-4 my-4">
+      <ul class="pagination justify-content-center mb-0">
+        <li class="page-item">
+          <a class="page-link" href="blog-3.html">&larr; Older</a>
+        </li>
+        <li class="page-item disabled">
+          <a class="page-link" href="blog-5.html">Newer &rarr;</a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- /.container -->
+
+    <footer class="bg-faded text-center py-5">
+      <div class="container">
+        <p class="m-0 fa-sm"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  </body>
+
+</html>
